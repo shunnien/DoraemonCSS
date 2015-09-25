@@ -522,11 +522,11 @@
     border-radius: 7px;
     position: absolute;
     top: 40px;
-    -webkit-animation: eyemove 3s linear infinite;
-    -moz-animation: eyemove 3s linear infinite;
-    -ms-animation: eyemove 3s linear infinite;
-    -o-animation: eyemove 3s linear infinite;
-    animation: eyemove 3s linear infinite;
+    -webkit-animation: eyemove 1s linear infinite;
+    -moz-animation: eyemove 1s linear infinite;
+    -ms-animation: eyemove 1s linear infinite;
+    -o-animation: eyemove 1s linear infinite;
+    animation: eyemove 1s linear infinite;
 }
 
 /*讓眼睛動起來*/
